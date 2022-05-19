@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.nav ul{
+  /* color: aqua; */
+  display: inline;
+  background-color: yellowgreen;
+}
